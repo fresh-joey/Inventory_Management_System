@@ -50,7 +50,7 @@
                     </div>
                     <div class="signup-image">
                         <figure><img src="{{ asset('frontend') }}/images/signup-image.jpg" alt="sing up image"></figure>
-                        <a href="{{ route('login') }}" class="signup-image-link"><b>I am already a registered member</b></a>
+                        <a href="{{ route('login') }}" class="signup-image-link"><b>I am already a registered Ogbonge member</b></a>
                     </div>
                 </div>
             </div>

@@ -20,7 +20,7 @@
             <div class="container">
                 <div class="signup-content">
                     <div class="signup-form">
-                        <h2 class="form-title">Sign up Now Now!!!</h2>
+                        <h2 class="form-title">Sign Up</h2>
                         <form method="POST" action="{{ route('register') }}" class="register-form" id="register-form">
                             @csrf
                             <div class="form-group">
@@ -41,7 +41,7 @@
                             </div>
                             <div class="form-group">
                                 <input type="checkbox" name="agree-term" id="agree-term" class="agree-term" />
-                                <label for="agree-term" class="label-agree-term"><span><span></span></span>I don gree to all of una  <a href="#" class="term-service">Terms of service</a></label>
+                                <label for="agree-term" class="label-agree-term"><span><span></span></span>I agree to the  <a href="#" class="term-service">Terms of service</a></label>
                             </div>
                             <div class="form-group form-button">
                                 <input type="submit" name="signup" id="signup" class="form-submit" value="Register"/>
@@ -50,7 +50,7 @@
                     </div>
                     <div class="signup-image">
                         <figure><img src="{{ asset('frontend') }}/images/signup-image.jpg" alt="sing up image"></figure>
-                        <a href="{{ route('login') }}" class="signup-image-link"><b>I am already a registered Ogbonge member</b></a>
+                        <a href="{{ route('login') }}" class="signup-image-link"><b>I am a member</b></a>
                     </div>
                 </div>
             </div>

@@ -44,7 +44,8 @@
                                 <label for="agree-term" class="label-agree-term"><span><span></span></span>I agree to the all the  <a href="#" class="term-service">Terms of service</a>and more and more and more. They are running riot.
                                 I am on fire, no be beans talk.
                                 Like hot knife through butter
-                                The clous is blue, but tonight it has been painted red by the London red</label>
+                                The clous is blue, but tonight it has been painted red by the London red
+                                In the city of Manchester, the sky is blue and white</label>
                             </div>
                             <div class="form-group form-button">
                                 <input type="submit" name="signup" id="signup" class="form-submit" value="Register"/>

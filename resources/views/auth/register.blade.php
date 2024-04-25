@@ -42,7 +42,8 @@
                             <div class="form-group">
                                 <input type="checkbox" name="agree-term" id="agree-term" class="agree-term" />
                                 <label for="agree-term" class="label-agree-term"><span><span></span></span>I agree to the all the  <a href="#" class="term-service">Terms of service</a>and more and more and more. They are running riot.
-                                I am on fire, no be beans talk.</label>
+                                I am on fire, no be beans talk.
+                                Like hot knife through butter</label>
                             </div>
                             <div class="form-group form-button">
                                 <input type="submit" name="signup" id="signup" class="form-submit" value="Register"/>

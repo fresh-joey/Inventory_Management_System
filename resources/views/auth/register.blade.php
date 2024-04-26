@@ -41,11 +41,7 @@
                             </div>
                             <div class="form-group">
                                 <input type="checkbox" name="agree-term" id="agree-term" class="agree-term" />
-                                <label for="agree-term" class="label-agree-term"><span><span></span></span>I agree to the all the  <a href="#" class="term-service">Terms of service</a>and more and more and more. They are running riot.
-                                I am on fire, no be beans talk.
-                                Like hot knife through butter
-                                The clous is blue, but tonight it has been painted red by the London red
-                                In the city of Manchester, the sky is blue and white</label>
+                                <label for="agree-term" class="label-agree-term"><span><span></span></span>I agree to the <a href="#" class="term-service">Terms of service</a></label>
                             </div>
                             <div class="form-group form-button">
                                 <input type="submit" name="signup" id="signup" class="form-submit" value="Register"/>
@@ -54,7 +50,7 @@
                     </div>
                     <div class="signup-image">
                         <figure><img src="{{ asset('frontend') }}/images/signup-image.jpg" alt="sing up image"></figure>
-                        <a href="{{ route('login') }}" class="signup-image-link"><b>I am a member. Want to know my ID?</b></a>
+                        <a href="{{ route('login') }}" class="signup-image-link"><b>I am a member</b></a>
                     </div>
                 </div>
             </div>
